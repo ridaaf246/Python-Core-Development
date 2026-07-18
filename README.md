@@ -74,7 +74,7 @@ With core Python mastery established, the next evolutionary landmarks on my road
 
 ## 🚀 How to Run
 
-1. **Clone the repository to your local computer:**
+ **Clone the repository to your local computer:**
    ```bash
    git clone https://github.com/ridaaf246/Python-Core-Development.git
 
